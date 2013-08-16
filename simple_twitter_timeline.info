@@ -1,0 +1,4 @@
+name = Simple Twitter Timeline
+description = Grab a list of tweets in a block
+version = 6.x-1.0
+core = 6.x
